@@ -1,0 +1,3 @@
+step 1: After running the app.py code, a flask_ngrok link will be generated
+step 2: This link is active only for 2 hrs after the execution of app python file
+step 3: copyb and paste the flask_ngrok url on your web browser and test the model by uploading images from your system
